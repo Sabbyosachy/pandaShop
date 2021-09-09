@@ -1,0 +1,78 @@
+.navbar{
+    background-color:#FEEAE9;
+}
+
+.nav-link{
+text-decoration:none;
+margin-right: 30px;
+color: black;
+font-weight: 700;
+font-size: 18px;
+
+}
+.search{
+    width: 400px;
+    border-radius: 25px;
+    border: 2px solid rgb(207, 0, 35);
+}
+.Search-button{
+background-color: rgb(207, 0, 35);
+color: white;
+font-weight: 600;
+font-size: 16px;
+border-radius: 20px;
+margin-left: -40px;
+
+}
+.fas{
+    font-size: 22px;
+}
+
+.carousel-inner{
+    background-color:#FEEAE9;
+}
+
+.Home a{
+
+background-color:rgb(207, 0, 35);
+color: white;
+font-weight: 500;
+padding: 7px 18px;
+text-decoration: none;
+border-radius: 5px;
+font-size: 18px;
+
+}
+.Home h1{
+    font-weight: bold;
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+.Home h3{
+    color: rgb(207, 0, 35);
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.product h1{
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+.watch{
+    background-color: #fc8200;
+    border-radius: 10px;
+}
+.Bag{
+    background-color: #ff1271;
+    border-radius: 10px;
+}
+.shoes{
+    background-color: #0062ff;
+    border-radius: 10px;
+}
+.product h3{
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+}
